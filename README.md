@@ -3,10 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... using hierarchy and working on overriding parent class functions
-- 🌱 I’m currently learning ... AP Calculus BC
+- 🔭 I’m currently working on ... Lower Level Programming and Operating Systems
+- 🌱 I’m currently learning ... Cloud development
 - 👯 I’m looking to collaborate on ... any projects I'm able to help with
-- 🤔 I’m looking for help with ... writing essays
 - 💬 Ask me about ... computer science and and calculus
 - 📫 How to reach me: ... elanreizas@gmail.com
 - 😄 Pronouns: ...he/him
